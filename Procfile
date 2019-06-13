@@ -1,1 +1,1 @@
-
+worker: node spigot.jar
